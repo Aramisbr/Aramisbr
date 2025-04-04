@@ -2,7 +2,7 @@
 - Estou interessado em dar meus primeiros passos nessa plataforma e aprender tudo que eu posso.
 - Atualmente estou estudando e desenvolvendo projetos iniciais em Python, além de estar me dedicando aos estudos e práticas com HTML, CSS e SQL.
 - Falo português e inglês.
--
+
 [EN] Hi, my name is Aramis, a brazilian guy who loves tech and inovation, I'm 23yo and I'm studying Systems Analysis and Development.
 - I’m interested in give my firsts steps and learn everything I can.
 - I’m currently learning and developing projects in Python, in addition I'm dedicating myself to also study and practice HTML, CSS and SQL.
