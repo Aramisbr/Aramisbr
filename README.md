@@ -3,7 +3,7 @@
 - Atualmente estou estudando Python e HTML.
 - Falo português e inglês.
 -
-- [EN] Hi, my name is Aramis, a brazilian guy who loves tech and inovation, I'm 23yo and I'm studying Systems Analysis and Development.
+[EN] Hi, my name is Aramis, a brazilian guy who loves tech and inovation, I'm 23yo and I'm studying Systems Analysis and Development.
 - I’m interested in give my firsts steps and learn everything I can.
 - I’m currently learning Python and HTML.
 - I speak Portuguese and English.
