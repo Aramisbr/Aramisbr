@@ -2,7 +2,7 @@
 
 I'm an **aspiring Systems Developer** with a deep passion for technology and innovation, currently pursuing a degree in **Systems Analysis and Development**.
 
-Focused on **Backend and Full Stack development**, I'm currently building robust projects using **Python, Django/Flask**. I also have a keen interest in **Machine Learning and Automation**, always looking to apply these technologies to solve real-world problems and optimize processes.
+Focused on **Backend/Full Stack development**, I'm currently building robust projects using **Python, Django/Flask**. I also have a keen interest in **Machine Learning and Automation**, always looking to apply these technologies to solve real-world problems and optimize processes.
 
 ---
 
