@@ -1,13 +1,28 @@
-[PT] Olá, meu nome é Aramis, sou um brasileiro que ama tecnologia e inovação. Tenho 23 anos e estou estudando Análise e Desenvolvimento de Sistemas.
-- Estou interessado em dar meus primeiros passos nessa plataforma e aprender tudo que eu posso no GitGub.
-- Atualmente estou estudando e desenvolvendo projetos iniciais em Python e Django, além de estar me dedicando aos estudos e práticas com banco de dados.
-- Falo português e inglês.
+# Hi there! 👋 I'm Aramis.
 
-[EN] Hi, my name is Aramis, a brazilian guy who loves tech and inovation, I'm 23yo and I'm studying Systems Analysis and Development.
-- I’m interested in give my firsts steps and learn everything I can on GitHub.
-- I’m currently learning and developing projects in Python and Django, in addition I've been studying and practicing database.
-- I speak Portuguese and English.
+I'm an **aspiring Systems Developer** with a deep passion for technology and innovation, currently pursuing a degree in **Systems Analysis and Development**.
 
+Focused on **Backend and Full Stack development**, I'm currently building robust projects using **Python, Django/Flask**. I also have a keen interest in **Machine Learning and Automation**, always looking to apply these technologies to solve real-world problems and optimize processes.
+
+---
+
+### My Skills & Interests:
+
+* **Languages & Frameworks:** Python (Django, Flask), SQL, HMTL5, CSS.
+* **Areas of Interest:** Backend Development, Full Stack Development, Machine Learning, Automation
+* **Languages:** Portuguese (Native), English (Advanced)
+
+---
+
+### What I'm Looking For:
+
+I'm seeking an **internship opportunity** where I can apply my knowledge, learn from real-world challenges, and grow professionally in a dynamic and innovative environment.
+
+---
+
+### Connect with me!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aramis-alves)
 
   
 <!---
