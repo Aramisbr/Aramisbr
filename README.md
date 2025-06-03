@@ -9,7 +9,7 @@ Focused on **Backend/Full Stack development**, I'm currently building robust pro
 ### My Skills & Interests:
 
 * **Languages & Frameworks:** Python (Django, Flask), SQL, HMTL5, CSS.
-* **Areas of Interest:** Backend Development, Full Stack Development, Machine Learning, Automation
+* **Areas of Interest:** Backend/Full Stack Development, Machine Learning, Automation
 * **Languages:** Portuguese (Native), English (Advanced)
 
 ---
