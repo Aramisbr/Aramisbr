@@ -1,20 +1,17 @@
 # Hi there! 👋 I'm Aramis.
 
-I'm an **aspiring Systems Developer** with a deep passion for technology and innovation, currently pursuing a degree in **Systems Analysis and Development**.
+Aspiring Salesforce & Systems Developer with a strong focus on backend, automation, and CRM solutions. Currently pursuing a degree in Systems Analysis and Development and participating in the OSF Academy – Salesforce Core Developer program, where I’m sharpening my skills in Apex, Flows, LWC, and SOQL through real-world projects.
 
-Focused on **Backend/Full Stack development**, I'm currently building robust projects using **Python, Django/Flask**. I also have a keen interest in **Machine Learning and Automation**, always looking to apply these technologies to solve real-world problems and optimize processes.
-
+I’m passionate about building solutions that connect business needs with technology, by designing Salesforce automations, functional code and integrating APIs.
 ---
 
 ### My Skills & Interests:
 
-* **Languages & Frameworks:** Python (Django, Flask), SQL, HMTL5, CSS.
-* **Areas of Interest:** Backend/Full Stack Development, Machine Learning, Automation
-* **Languages:** Portuguese (Native), English (Advanced)
+* Salesforce: Apex, SOQL, Flows, LWC, Reports & Dashboards, User Management
+
+Full-Stack Development: Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript
 
 ---
-
-### What I'm Looking For:
 
 I'm seeking an **internship opportunity** where I can apply my knowledge, learn from real-world challenges, and grow professionally in a dynamic and innovative environment.
 
