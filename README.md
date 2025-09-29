@@ -9,7 +9,7 @@ I’m passionate about building solutions that connect business needs with techn
 
 * Salesforce: Apex, SOQL, Flows, LWC, Reports & Dashboards, User Management
 
-Full-Stack Development: Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript
+* Full-Stack Development: Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript
 
 ---
 
