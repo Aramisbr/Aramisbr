@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Aramis.
 
 Salesforce Developer passionate about building scalable CRM and automation solutions. Currently enrolled in Systems Analysis and Development and part of the OSF Academy – Salesforce Core Developer program, where I had hands-on experience with Apex, Flows, LWC, and SOQL in real-world projects.
+
 I enjoy turning business challenges into smart technical solutions through Salesforce automation, backend development, and API integrations. Constantly learning, experimenting, and evolving within the Salesforce ecosystem.
 
 ---
