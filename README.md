@@ -1,19 +1,21 @@
 # Hi there! 👋 I'm Aramis.
 
-Aspiring Salesforce & Systems Developer with a strong focus on backend, automation, and CRM solutions. Currently pursuing a degree in Systems Analysis and Development and participating in the OSF Academy – Salesforce Core Developer program, where I’m sharpening my skills in Apex, Flows, LWC, and SOQL through real-world projects.
+Salesforce Developer passionate about building scalable CRM and automation solutions. Currently enrolled in Systems Analysis and Development and part of the OSF Academy – Salesforce Core Developer program, where I had hands-on experience with Apex, Flows, LWC, and SOQL in real-world projects.
 
-I’m passionate about building solutions that connect business needs with technology, by designing Salesforce automations, functional code and integrating APIs.
+I enjoy turning business challenges into smart technical solutions through Salesforce automation, backend development, and API integrations. Constantly learning, experimenting, and evolving within the Salesforce ecosystem.
 ---
 
 ### My Skills & Interests:
 
-* Salesforce: Apex, SOQL, Flows, LWC, Reports & Dashboards, User Management
+* Salesforce: Apex, Flows, LWC, SOQL, Reports & Dashboards, User Administration
 
-* Full-Stack Development: Python, Django, Flask, REST APIs, HTML5, CSS, JavaScript
+* Development: Python, Django, Flask, REST APIs, JavaScript, HTML5, CSS
+
+* Tools: Git, VS Code, Postman, CI/CD pipelines
 
 ---
 
-I'm seeking an **internship opportunity** where I can apply my knowledge, learn from real-world challenges, and grow professionally in a dynamic and innovative environment.
+I speak English, open to opportunities as an Intern, Trainee, or Junior Developer/Admin.
 
 ---
 
